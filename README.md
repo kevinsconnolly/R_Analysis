@@ -48,14 +48,16 @@ What does customers really care about (cost, fuel efficiency, color options, etc
 Below are 3:
 
 Color
+
 In-Car Technology
+
 Cost
 
 
 Color
-If the color is attractive, then we have their attention to show them The differecnt between the protype Mecha versus the prevelant industry competitor
+If the color is attractive, then we have the customer's attention to show the difference between the protype Mecha versus the prevelant industry competition
 
-In order to verify the top selling color cars, we would need to test our question with a regression model. In using a multiple linear regression model, collection of numerical variables, such as number of units sold by color and time. We can then estimate a sample size by years. We can collect the data that has been curated from other dealerships from previous years. Although, color seems like a bar plot would be appropriate. 
+In order to verify the top selling color cars, we would need to test our question with a regression model. In using a multiple linear regression model, collection of numerical variables, such as number of units sold by color and time. We can then estimate a sample size by years. We can collect the data that has been procured from other dealerships from previous years. A bar plot would be appropriate when using color for the ease of reading and clarity for the investigation.
 
 In-Car Technology
 Consumers will spend an average of $3,000 to have their preferred tech capabilities which is a great way to increase overall customer satisfaction and increased margins
@@ -68,8 +70,8 @@ Consumer want to feel like they made a great deal. Both vehicles have to be as c
 The two sample test
 pair t-test
 Heatmap
-The two-sample t-test is to be used in order to compare the two samples from a single population dataset. We perform a two-sample t-test on each assumed comparable vehicle. Data that is preceived to be reliable from these results will provide us with the absolute list of vehicles to continue with a pair t-test, because we would pair observations in one dataset with observations in the other.
+The two-sample t-test will be used in order to compare two samples from a single population dataset. The two-sample t-test on each assumed comparable vehicle. Data that is perceived to be reliable from these results will provide the absolute list of vehicles to continue with a pair t-test, because we would pair observations in one dataset with observations in another.
 
 We would use the pair t-test to compare cost of a MechaCar across the list of comparable vehicles. If the difference between our paired observations (the true mean difference, or “μd”) is equal to zero, then that comparable vehicle will go on into our heatmap plot.
 
-Heatmap plots help visualize the relationship between one continuous numerical variable and two other variables (categorical or numerical). Heatmaps display numerical values as colors on a two-dimensional grid so that value clusters and trends are readily identifiable. We can visualize the average cost of comparable vehicles across the type of vehicle class from 2010 to 2020.
+Heatmap plots help visualize the relationship between one continuous numerical variable and two other variables (categorical or numerical). Heatmaps display numerical values as colors on a two-dimensional grid so that value clusters and trends are readily identifiable. We can visualize the average cost of comparable vehicles across the type of vehicle class from 2012 to 2022.
