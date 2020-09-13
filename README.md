@@ -37,7 +37,7 @@ Design My Own Study
 A study which compares the performance of the MechaCar prototype vehicle to other comparable vehicles on the market; which will quantify how the MechaCar outperforms the competition. 
 
 The design follows:
-Metricsof interest to a consumer
+Metrics of interest to a consumer
 Determine what question we would ask.
 What the null and alternative hypothesis would be to answer that question.
 What statistical test could be used to test this hypothesis.
@@ -48,8 +48,7 @@ What does customers really care about (cost, fuel efficiency, color options, etc
 Below are 3:
 
 Color
-
-In-Car Technology
+Safety Rating
 
 Cost
 
@@ -59,10 +58,11 @@ If the color is attractive, then we have the customer's attention to show the di
 
 In order to verify the top selling color cars, we would need to test our question with a regression model. In using a multiple linear regression model, collection of numerical variables, such as number of units sold by color and time. We can then estimate a sample size by years. We can collect the data that has been procured from other dealerships from previous years. A bar plot would be appropriate when using color for the ease of reading and clarity for the investigation.
 
-In-Car Technology
-Consumers will spend an average of $3,000 to have their preferred tech capabilities which is a great way to increase overall customer satisfaction and increased margins
 
-We can use the boxplot to visualize a variety of summary statistics. Boxplots are very common in data science due to the density of information contained within a single visualization, as well as the boxplot’s ability to compare measurements across grouping factors. The grouped boxplots are easy to read and interpret as to what in-car technology consumers have purchased and what they will continue to purchase.
+Safety ratings
+Consumers really do care about safety capabilities which is a great way to increase overall customer satisfaction and increased margins as they consumer continues to appreciate quality safety
+
+We can use the boxplot to visualize a variety of summary statistics ie car crashes, fatalities and surviability. Boxplots are very common in data science due to the density of information contained within a single visualization, as well as the boxplot’s ability to compare measurements across grouping factors. The grouped boxplots are easy to read and interpret as to what safety features consumers have purchased/upgraded and what they will continue to purchase as they have more families and travel more for activities
 
 Cost
 Consumer want to feel like they made a great deal. Both vehicles have to be as close in all specifications in order to satisfy accuracy and validity in claims.
