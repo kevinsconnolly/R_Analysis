@@ -3,7 +3,7 @@ MechaCar Technical Report
 
 MechaCar_mpg.csv- Multiple metrics such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance were collected for each vehicle.
 
-Suspension_coil.csv- ontains the weight capacity of multiple suspension coils which were tested to determine if the manufacturing process is consistent across lots.
+Suspension_coil.csv- Contains the weight capacity of multiple suspension coils which were tested to determine if the manufacturing process is consistent across lots.
 
 Below you will find a technical report which contains design choices using quantitative and qualitative reasoning.
 
